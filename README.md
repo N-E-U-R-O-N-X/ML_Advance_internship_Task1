@@ -48,5 +48,5 @@ Due to GitHub's file size constraints, the fine-tuned model weights (`model.safe
 * **Libraries:** Transformers, Datasets, PyTorch, Scikit-Learn, Evaluate, Gradio, Pandas, Matplotlib
 
 ## 👩‍💻 Author
-**Eshaal Hammad**
-* **Email:** eshaalhammad234@gmail.com
+**Subhan Ali**
+* **Email:** subhan034749@gmail.com
